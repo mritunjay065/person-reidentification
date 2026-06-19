@@ -179,7 +179,7 @@ MIT License - see [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- GitHub: [@YOUR_USERNAME](https://github.com/mritunjay065)
+- GitHub:[https://github.com/mritunjay065]
 
 ---
 
